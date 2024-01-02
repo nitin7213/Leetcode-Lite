@@ -25,6 +25,3 @@
 - 🔥 **Firebase** - A platform for building web and mobile applications, providing authentication, real-time database, and hosting services.
 - 🎨 **Tailwind CSS** - A utility-first CSS framework for rapidly building custom user interfaces.
 <hr>
-
-## - License
-📝 This project is licensed under the MIT License.
