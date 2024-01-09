@@ -1,10 +1,14 @@
 ls
-cd Leetcode-Lite
+cd\ -> to go back
+cd Leetcode-Lite -> to go inside that directory
 clear
+mkdir -> to make directory
 
 ### Git cmds
 
 git ~~version
+git pull origin-> pull repo
+git init -> to initialize git in new directory
 git clone https://github.com/nitin7213/Leetcode-Lite.git
 git status //nothing to commit, working tree clean
 
@@ -14,7 +18,18 @@ git status //nothing to commit, working tree clean
 3.staged: file is ready to be committed, after add cmd it shows
 4.Unmodified: unchanged, after commit it shows this
 
-Add & Commit Cmnd:
+Add & Commit & Push Cmnd:
+
 1.add: git add <- file name -> //adds new or changed files in your working directory to the Git staging area.
+git add . -> Add all files
 
 2.Commit: git commit -m "some message" //it is the record of change
+msg: can be the bug fixed or added functionality.
+
+3.git push: to publish your local commits ////Your branch is ahead of 'origin/main' by 1 commit.
+git push origin main -> push in main branch
+
+git log -> all commit history
+git reset HEAD~1 -> back commit
+git reset <- commit hash ->
+git reset --hard commit hash ->
