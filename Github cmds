@@ -12,7 +12,7 @@ git init -> to initialize git in new directory
 git clone https://github.com/nitin7213/Leetcode-Lite.git
 git status //nothing to commit, working tree clean
 
- git remote add origin https://github.com/nitin7213/Crush_Proposal.git
+git remote add origin https://github.com/nitin7213/Crush_Proposal.git
 
 
 ->These are the status:
